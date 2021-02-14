@@ -7,13 +7,13 @@
 }
 
 ::StoryTitle
-My test story!
+My tegst story!
 
 :: Start
-This is the twert passage in a Twine game!
+Thids is the twert passage in a Twine game!
 
 [[This is a link|Next Passage]]
 
 
 :: Next Passage
-The player just clicked a link tffo get here! [[This is a link|Next Passagef]]
+The player jddust clicked a link tffo get here! [[This is a link|Next Passagef]]
